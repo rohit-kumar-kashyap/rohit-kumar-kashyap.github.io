@@ -2,8 +2,8 @@
 # HTID:3103812: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
 php_value display_errors 1
 # DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:3103812:
-RewriteCond %{HTTP_HOST} !^www.rohitcv.000webhostapp.com$ [NC]
-RewriteRule ^(.*)$ http://www.rohitcv.000webhostapp.com/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} !^www.rohitkashyap8756.github.io$ [NC]
+RewriteRule ^(.*)$ http://www.rohitkashyap8756.github.io/$1 [L,R=301]
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
 RewriteRule .* ? [F,L]
 
