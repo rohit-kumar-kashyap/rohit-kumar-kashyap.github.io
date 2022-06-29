@@ -3,4 +3,4 @@ Disallow: /
 Disallow: /cgi-bin/
 Disallow: /img/
 User-agent: Googlebot-Image Disallow: /
-Sitemap: http://rohitkashyap8756.github.io/sitemap.xml
+Sitemap: https://rohit-kumar-kashyap.github.io/sitemap.xml
