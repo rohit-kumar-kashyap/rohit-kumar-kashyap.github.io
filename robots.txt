@@ -2,4 +2,5 @@ User-agent: Googlebot-Image
 Disallow: /
 Disallow: /cgi-bin/
 Disallow: /img/
+User-agent: Googlebot-Image Disallow: /
 Sitemap: http://rohitkashyap8756.github.io/sitemap.xml
