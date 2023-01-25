@@ -1,6 +1,0 @@
-User-agent: Googlebot-Image
-Disallow: /
-Disallow: /cgi-bin/
-Disallow: /img/
-User-agent: Googlebot-Image Disallow: /
-Sitemap: https://rohit-kumar-kashyap.github.io/sitemap.xml
