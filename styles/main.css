@@ -4034,7 +4034,7 @@ html[dir=rtl] .contact-section .section-content .contact-text .social {
   padding-right: 42px;
 }
 .contact-section .section-content .contact-text .social li {
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 .contact-section .section-content .contact-text .social li a {
   display: -webkit-box;
